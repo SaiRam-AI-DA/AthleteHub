@@ -102,4 +102,4 @@ Roles are enforced strictly using Spring Security `@PreAuthorize` annotations.
 - **Athlete Management** - Completed
 - **Organization Management** - Completed
 - **Dashboard Statistics** - Completed
-- **Coach Management** - Upcoming
+- **Coach Management** - Completed
